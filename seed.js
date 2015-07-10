@@ -175,7 +175,7 @@ var seed = function () {
             console.error(err);
         }
         console.log('Database seeded!');
-        process.kill(0);
+        process.kill(0);show 
     });
 
 };
